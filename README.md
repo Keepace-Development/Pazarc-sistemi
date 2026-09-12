@@ -171,3 +171,20 @@ Once kendi pazar tabelana sag tikla. Komutlar sadece son secilen pazar sahibi ta
 - `src/main/resources/config.yml`: Oyuncuya gosterilen mesajlar
 - `pom.xml`: Paper API, VaultAPI ve Maven ayarlari
 - `target/pazarci-1.0.0.jar`: Derlenen plugin dosyasi
+
+## 💡 Katkıda Bulunma ve Geliştirme
+
+Bu proje tamamen açık kaynaklıdır! Eksik gördüğün, geliştirilebileceğini düşündüğün veya eklenmesini istediğin yeni özellikler varsa katkıda bulunabilirsin:
+
+1. Bu depoyu çatallayabilirsin (**Fork**).
+2. Kendi geliştirme dalını oluşturabilirsin (`git checkout -b ozellik/yeni-ozellik`).
+3. Değişikliklerini kaydedebilirsin (`git commit -m 'Yeni özellik eklendi'`).
+4. Depona gönderebilirsin (`git push origin ozellik/yeni-ozellik`).
+5. Bir **Pull Request (İstek)** oluşturarak katkı sunabilirsin.
+
+## 📞 İletişim ve Destek
+
+Eklentiyle ilgili bir hata (bug) fark edersen, soru sormak istersen veya önerilerin varsa şu kanallardan ulaşabilirsin:
+
+* **GitHub Issues:** Depo üzerindeki [Issues](https://github.com/Keepace/Pazarcisistemi/issues) sekmesini kullanarak hata bildiriminde bulunabilirsin.
+* **Discord / Sosyal Medya:** Sunucu geliştirme süreçleri ve iletişim için bana GitHub profilim üzerinden ulaşabilirsin.
