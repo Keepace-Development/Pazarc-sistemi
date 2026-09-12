@@ -1,0 +1,10 @@
+name: Pazarci
+version: 1.0.0
+main: tr.pazarci.PazarciPlugin
+api-version: '1.21.11'
+depend: [Vault]
+description: Oyuncular icin sandik tabanli pazar sistemi.
+commands:
+	pazar:
+		description: Secili pazari yonetir.
+		usage: /pazar <kapat|al|sat|fiyat> [deger]

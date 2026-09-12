@@ -1,0 +1,6 @@
+messages:
+  setup-question: "Elindeki esyayi kac liraya pazarlamak istiyorsun?"
+  buy-question: "Bu urunden kac tane istersiniz?"
+  sell-question: "Pazara kac tane urun vermek istiyorsun?"
+  timeout: "Islem zaman asimina ugradi."
+  invalid-number: "Gecerli, pozitif bir tam sayi yazmalisin."
