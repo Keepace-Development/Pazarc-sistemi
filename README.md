@@ -186,5 +186,5 @@ Bu proje tamamen açık kaynaklıdır! Eksik gördüğün, geliştirilebileceği
 
 Eklentiyle ilgili bir hata (bug) fark edersen, soru sormak istersen veya önerilerin varsa şu kanallardan ulaşabilirsin:
 
-* **GitHub Issues:** Depo üzerindeki [Issues](https://github.com/Keepace/Pazarcisistemi/issues) sekmesini kullanarak hata bildiriminde bulunabilirsin.
+* **GitHub Issues:** Depo üzerindeki [Issues](https://github.com/Keepace-Development/Pazarci-sistemi/issues) sekmesini kullanarak hata bildiriminde bulunabilirsin.
 * **Discord / Sosyal Medya:** Sunucu geliştirme süreçleri ve iletişim için bana GitHub profilim üzerinden ulaşabilirsin.
